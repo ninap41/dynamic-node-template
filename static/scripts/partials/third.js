@@ -1,0 +1,1 @@
+console.log('thirds script loads');
